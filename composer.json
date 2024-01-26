@@ -1,0 +1,13 @@
+{
+    "name": "icd0007/hw5",
+    "authors": [
+        {
+            "name": "Sigrid Hanni",
+            "email": "sihann@taltech.ee"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^4.3",
+        "ext-pdo": "*"
+    }
+}

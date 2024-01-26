@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    box-shadow: 0px 2px 5px #ccc;
+}
+
+nav div {
+    display: flex;
+}
+
+nav a {
+    margin: 0 10px;
+}
+
+main#details-table div {
+    display: flex;
+    padding: 5px 0;
+}
+main#details-table {
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+main#details-table div > div:first-child {
+    width: -100px; /* Adjust as needed */
+    text-align: left;
+    padding-right: 10px; /* Adjust as needed */
+}
+#value_fn{
+    margin-left: 6.7rem;
+    align-self: center;
+}
+#value_ln {
+    margin-left: 2.6rem;
+    align-self: center;
+}
+#value_tf{
+    margin-left: 5.6rem;
+}
+
+/* front.html */
+
+.what {
+    margin-left: 10rem;
+    margin-right: 39.5rem;
+    margin-top: 5rem;
+
+}
+.why{
+    margin-top: -16rem;
+    margin-left: 45rem;
+    margin-right: 8rem;
+
+}
+h2{
+    font-size: xx-large;
+}
+
+.text-right-front {
+    margin-right: -13rem;
+}
+
+.text-center-front {
+    margin-left: 4rem;
+}
+
+.text-left-front{
+    margin-left: -8rem;
+}
+.text-left-front-up{
+    margin-left: -13rem;
+}
+
+/* list.html */
+
+
+.text-right-list{
+    margin-right: -7.9rem;
+}
+.text-left-list-up{
+    margin-left: -4.5rem;
+}
+.text-right-list-seaded{
+    margin-right: -4.2rem;
+}
+.text-left-list{
+    margin-left: -1.3rem;
+
+}
+.text-center-list{
+   margin-left: 4rem;
+
+}
+#list-table {
+    width: 800px;
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#list-table th,
+#list-table td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+#list-table th {
+    background-color: #f2f2f2;
+}
+
+#list-table a {
+    text-decoration: none;
+    color: black;
+}
+
+#list-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+
+
+footer {
+    width: 800px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+footer div {
+    width: 33.33%;
+}
+

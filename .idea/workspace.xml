@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0109e49d-5531-4ca0-a0fd-e9216e460886" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/data/temperatures-debug.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/data/temperatures-filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/data/temperatures-sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/data/temperatures.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1/ex8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/layout/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/layout/front.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/layout/img/table_layout_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/layout/img/table_layout_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/layout/img/table_layout_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/layout/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/multiplication/multiplication-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/multiplication/multiplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/multiplication/table-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/multiplication/table-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/d.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/e/e.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/e/e.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/e/f/f.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/e/f/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/e/f/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/a/b/c/d/html-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/nav/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/proto/employee-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/proto/employee-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/proto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/proto/task-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/proto/task-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex2/temps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/calc/c2f_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/calc/f2c.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/calc/f2c_result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/calc/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/calc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/flow/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/flow/saver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/flow/thanks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/form/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/form/params.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/multiplication/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/multiplication/table-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/multiplication/table-header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/pages/avg-winter-temp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/pages/days-under-temp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/pages/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/pages/result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/pages/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/server/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/server/server-echo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/server/server-hello.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/server/server-php.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/site/second.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex3/temps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/cascading/message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/cascading/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/cascade.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/cascade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/flex-demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/flex-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/grid-demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/grid-demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/grid-layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/css-examples/grid-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/layout/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/layout/front.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/layout/img/details.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/layout/img/front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/layout/img/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/layout/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/layout/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/posts/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/posts/next-id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/posts/post-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/posts/posts.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/selectors/selectors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex4/selectors/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/distribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/menu/MenuItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/menu/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/menu/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/numbers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/phones/Contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/phones/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex5/phones/phones.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex6/form-data-examples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex6/request-sender.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex6/socket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex6/tokens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/OrderLine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/OrderLineDao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/data/order.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/Author.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/Book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/sample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/tpl/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/tpl/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/tpl/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/tpl/main2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/tpl/sub_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex2/tpl/sub_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/ex3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/tpl/ex3_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/tpl/ex3_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/tpl/ex3_result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex7/vendor/tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/employee-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/employee-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/employees.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/save-employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/save-task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/Arimo-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/Arimo-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/img/652e8d6a560e0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/img/652e8e1bd661f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/img/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/img/pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/img/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/img/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/task-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/task-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/tasks.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/employee-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/employee-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/pic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/save-employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/save-task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/Arimo-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/Arimo-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/65329f585635a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/65336356b39e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/65337d9848b76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/65337dcbc795f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/65337e0e967ed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/6534e9ffbbe65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/img/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/task-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/task-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/employee-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/employee-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/message-controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/save-employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/save-task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/Arimo-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/Arimo-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/65329f585635a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/65336356b39e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/65337d9848b76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/65337dcbc795f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/65337e0e967ed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/6534e9ffbbe65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/6548ddd28a303.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/pic1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/pic2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/img/pic3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/task-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/task-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/dashboard.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/employee-form.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/employee-list.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/footer.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/header.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/navigation.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/task-form.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates/task-list.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates_c/1b38c8d7c9d1bc45f6552df51043e38dd857491b_0.file.navigation.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates_c/2cc2628363a67858bf00865de3c118bb19e057c1_0.file.header.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates_c/776b98e61ab99aebd731b19b3190a9d378692030_0.file.task-form.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates_c/91b3a9061e63fe93909ef6878f78db74e32119a2_0.file.footer.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw5/templates_c/c0b68b4b5523dd438fb4d7c3a0acc1ab60408bcc_0.file.task-list.tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/create-employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/create-task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/delete-employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/delete-task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/employee-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/employee-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/get-employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/get-task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/task-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/task-list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/update-employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/api/update-task.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/public/css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/public/css/list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/public/img/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/public/js/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6/src/functions.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/hw6/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2.5">
+    <include_path>
+      <path value="/usr/local/Cellar/php/8.3.0" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/smarty/smarty" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2YqmHFzS7AjpkqUYcIZbg1z0O0u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sigridhanni/PhpstormProjects/Web_Tech_PHP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/hw5" />
+      <recent name="$PROJECT_DIR$/vendor" />
+      <recent name="$PROJECT_DIR$/vendor/smarty/smarty" />
+      <recent name="$PROJECT_DIR$/vendor/smarty/smarty/libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw6/public/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/hw6/public" />
+      <recent name="$PROJECT_DIR$/hw6" />
+      <recent name="$PROJECT_DIR$/hw6/api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0109e49d-5531-4ca0-a0fd-e9216e460886" name="Changes" comment="" />
+      <created>1701261400171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701261400171</updated>
+      <workItem from="1701261407275" duration="874000" />
+      <workItem from="1701265749113" duration="2974000" />
+      <workItem from="1701268730341" duration="6506000" />
+      <workItem from="1701414345017" duration="2265000" />
+      <workItem from="1701416716722" duration="12484000" />
+      <workItem from="1701432559954" duration="314000" />
+      <workItem from="1701432886571" duration="7080000" />
+      <workItem from="1701507282682" duration="2106000" />
+      <workItem from="1701520346163" duration="9746000" />
+      <workItem from="1701931354655" duration="8236000" />
+      <workItem from="1702115046068" duration="16655000" />
+      <workItem from="1702275899305" duration="565000" />
+      <workItem from="1702279064383" duration="1593000" />
+      <workItem from="1702280826916" duration="15976000" />
+      <workItem from="1702365008082" duration="32323000" />
+      <workItem from="1702401657506" duration="8587000" />
+      <workItem from="1702453551472" duration="19060000" />
+      <workItem from="1702473952319" duration="24613000" />
+      <workItem from="1702529304444" duration="10411000" />
+      <workItem from="1702550882794" duration="1406000" />
+      <workItem from="1702553984284" duration="193000" />
+      <workItem from="1702554470114" duration="79000" />
+      <workItem from="1702559247604" duration="2386000" />
+      <workItem from="1702564451445" duration="3254000" />
+      <workItem from="1702625982405" duration="3993000" />
+      <workItem from="1702630097327" duration="682000" />
+      <workItem from="1706265831733" duration="1521000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>icd0007 Sample Application</title>
+</head>
+<body id="employee-form-page">
+<div id="root">
+    <nav>
+        <a href="index.html" id="dashboard-link">Dashboard</a> |
+        <a href="employee-list.html" id="employee-list-link">Employees</a> |
+        <a href="employee-form.html" id="employee-form-link">Add Employee</a> |
+        <a href="task-list.html" id="task-list-link">Tasks</a> |
+        <a href="task-form.html" id="task-form-link">Add Task</a>
+    </nav>
+    <div><div class="content-card">
+        <div class="content-card-header">Add Employee</div>
+        <div class="content-card-content">
+
+            <form id="input-form" method="post" action="?cmd=employee-save" enctype="multipart/form-data">
+                <div class="label-cell"><label for="name">Name:</label></div>
+                <div class="input-cell"><input name="name" id="name" type="text"></div>
+
+                <div class="label-cell"><label for="position">Position:</label></div>
+                <div class="input-cell">
+                    <select id="position" name="position">
+                        <option value=""></option>
+                    </select>
+                </div>
+
+                <div class="label-cell"><label for="available">Available:</label></div>
+                <div class="input-cell"><input id="available" type="checkbox"/></div>
+
+                <div class="label-cell"><label for="pic">Picture:</label></div>
+                <div class="input-cell"><input id="pic" name="pic" type="file"/></div>
+
+                <div class="label-cell"></div>
+                <div class="input-cell button-cell">
+                    <br>
+                    <button type="submit" name="submitButton">Save</button>
+                </div>
+            </form>
+        </div>
+    </div></div>
+
+    <footer>
+        icd0007 Sample Application
+    </footer>
+
+</div>
+
+</body>
+</html>

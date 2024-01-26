@@ -1,0 +1,14 @@
+{
+
+    "authors": [
+        {
+            "name": "Sigrid Hanni",
+            "email": "sihann@taltech.ee"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*",
+        "smarty/smarty": "^4.3",
+      "ext-json": "*"
+    }
+}

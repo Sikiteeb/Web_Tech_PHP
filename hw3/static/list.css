@@ -1,0 +1,88 @@
+
+.employee-item, .task {
+    padding: 0.4rem 0.4rem 1rem 0.4rem;
+    border: 1px solid var(--color-darker);
+    border-radius: .2rem;
+
+    min-height: 5rem;
+    margin-bottom: .5rem;
+}
+
+.employee-item img {
+    width: 70px;
+    float: left;
+    margin-right: 0.4rem;
+    border-radius: .2rem;
+}
+
+.employee-photo {
+    width: 75px;
+    height: 75px;
+    padding: 5px;
+
+}
+.employee-item{
+    height: 90px;
+}
+
+.employee-item .position {
+    color: var(--color-darker);
+}
+
+.employee-item .name {
+    color: var(--color-black);
+}
+
+.employee-item .count {
+    float: right;
+}
+
+.employee-item .link > a {
+    float: right;
+    color: var(--color-darkest);
+}
+
+.task .link > a {
+    float: right;
+    color: var(--color-darkest);
+}
+
+.task .dot {
+    border: 1px solid var(--color-darkest);
+    border-radius: .15rem;
+    width: .8rem;
+    height: .8rem;
+    display: inline-block;
+    margin-right: .2rem;
+}
+
+.task .filled {
+    background-color: var(--color-darker);
+}
+
+.task .title > div {
+    max-width: 90%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.task .status {
+    font-family: var(--font-medium);
+    float: right;
+    border-radius: .2rem;
+    padding: .1rem .2rem;
+    color: var(--color-light);
+}
+
+.task .open {
+    background-color: var(--color-blue);
+}
+
+.task .closed {
+    background-color: var(--color-green);
+}
+
+.task .pending {
+    background-color: var(--color-red);
+}
